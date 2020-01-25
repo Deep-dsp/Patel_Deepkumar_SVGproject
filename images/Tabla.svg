@@ -1,0 +1,14 @@
+<svg id="tablaSVG" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205.24 227.53"><defs>
+	<style>
+		.cls-1{fill:#fff;}
+
+		#tablaSVG:hover
+		{
+			fill: #B33100;
+			background-color: #00FFD0;
+			border-radius: 5px;
+		}
+	</style>
+</defs>
+<title>Tabla</title>
+<path d="M334.5,105.5c0,13-40.92,22-84,22s-84-9-84-22.5c0-12.5,40.92-21.5,84-21.5S334.5,93.5,334.5,105.5Z" transform="translate(-147.76 -83.5)"/><path class="cls-1" d="M279.14,105.5c0,4.43-13.95,7.5-28.64,7.5s-28.64-3.07-28.64-7.67c0-4.26,13.95-7.33,28.64-7.33S279.14,101.41,279.14,105.5Z" transform="translate(-147.76 -83.5)"/><path d="M199,271s-32-67,14-133c0,0-33-4-45-13C168,125,106,207,199,271Z" transform="translate(-147.76 -83.5)"/><path d="M301.76,271s32-67-14-133c0,0,33-4,45-13C332.76,125,394.76,207,301.76,271Z" transform="translate(-147.76 -83.5)"/><path d="M228,139s-55,59-10,140c0,0,31,13,65,0,0,0,46-71-11-140C272,139,250,143,228,139Z" transform="translate(-147.76 -83.5)"/><path d="M198,285s48,28,104,0c0,0,5,3-1,14,0,0-7,12-14,12H215s-6,1-13-9C202,302,193,292,198,285Z" transform="translate(-147.76 -83.5)"/></svg>

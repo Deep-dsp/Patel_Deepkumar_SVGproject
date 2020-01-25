@@ -1,0 +1,7 @@
+<svg id="fluteID" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450.51 435.37"><defs><style>.cls-1{fill:#fff;}
+#fluteID:hover
+{
+	fill:brown;
+	background-color:#D8BC9F;
+}
+</style></defs><title>Flute</title><path d="M25.5,48.5l98,98,30-30L124,87s6-14-19-26L94.5,71.5S93,74,90,72l-4-4s-1-2,2-4l8-8L40,33Z" transform="translate(-25.5 -33)"/><path d="M127,153l34-34s1-1,3,1l2,2a1.39,1.39,0,0,1,0,2l-34,34a1.39,1.39,0,0,1-2,0l-3-3A1.39,1.39,0,0,1,127,153Z" transform="translate(-25.5 -33)"/><path d="M138,162l31.5-31.5,304,304A8.61,8.61,0,0,1,476,441.1c-.52,8.08-4.35,25.4-27.38,27.24a8.65,8.65,0,0,1-6.79-2.52Z" transform="translate(-25.5 -33)"/><circle class="cls-1" cx="225.5" cy="210" r="10"/><circle class="cls-1" cx="267.5" cy="252" r="10"/><circle class="cls-1" cx="309.5" cy="294" r="10"/><circle class="cls-1" cx="351.5" cy="336" r="10"/><circle class="cls-1" cx="393.5" cy="378" r="10"/><rect class="cls-1" x="317.13" y="78.18" width="4.24" height="422.14" transform="translate(-136.52 277.46) rotate(-45)"/></svg>

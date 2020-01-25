@@ -1,0 +1,250 @@
+@charset "UTF-8";
+
+body
+{
+    max-width: 1200px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Header*/
+
+.logo, header
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.logo img
+{
+	width: 80px;
+	height: auto;
+	margin-top: 20px;
+}
+
+nav
+{
+	margin-left: 500px;
+	margin-top: 30px;
+}
+
+ul li
+{
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin: 15px;
+}
+
+ul li a
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: bold;
+	color: #000;
+	padding: 10px 20px;
+	border: 1px solid;
+	border-radius: 6px;
+	transition: 0.5s ease;
+}
+
+ul li a:hover
+{
+	background-color: #FF2A03;
+	color: white;
+}
+
+ul li.active a
+{
+	border-radius: 6px;
+	background-color: #FF2A03;
+	color: white;	
+}
+
+/*Header*/
+
+/* first row starts*/
+
+button
+{
+	background-color: lightgreen;
+	border-radius: 5px;
+	margin: 15px;
+	align-content: center;
+}
+
+.firstRow
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin-top: 30px;
+}
+.secondRow, .thirdRow, .lastRow
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 100px;
+	margin-right: 150px;
+}
+
+.tablaBox, .cornetBox, .mikeBox, .panpipeBox, .harpBox, .fluteBox,.trioBox, .tabnourineBox, .accodionBox, .banjoBox
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+.cornetBox, .mikeBox, .panpipeBox, .fluteBox, .trioBox, .tabnourineBox, .accodionBox
+{
+	margin-left: 150px;
+}
+
+.panpipeBox, .harpBox, .fluteBox, .tabnourineBox, .trioBox, .banjoBox
+{
+	margin-top: 15px;
+}
+
+.tabla, .cornet, .mike, .panpipe
+{
+	width: 150px;
+	height: auto;
+}
+
+.banjo
+{
+	width: 100px;
+	height: auto;
+	transform: rotate(-30deg);
+}
+
+.trio
+{
+	width: 130px;
+	height: auto;
+}
+
+.trioBox
+{
+	margin-right: 150px;
+}
+
+.harp, .flute, .tabnourine, .accodion
+{
+	width: 200px;
+	height: auto;
+}
+
+.tablaData, .harpData
+{
+	padding-top: 20px;
+}
+
+.cornetData, .mikeData, .panpipeData, .fluteData, .accodionData, .banjoData
+{
+	padding-top: 27px;
+}
+
+.tabnourineData, .trioData
+{
+	padding-top: 35px;
+}
+
+.tablaData p, .cornetData p, .mikeData p, .banjoData p, .accodionData p, .panpipeData p, .harpData p, .fluteData p, .tabnourineData p, .trioData p
+{
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+}
+
+.harpData
+{
+	margin-right: 60px;
+}
+
+.tablaData p:hover
+{
+	color: white;
+	background-color: green;
+	border-radius: 10px;
+}
+
+.cornetData p:hover
+{
+	color: white;
+	background-color: green;
+	border-radius: 10px;
+}
+
+.mikeData p:hover
+{
+	color: white;
+	background-color: green;
+	border-radius: 10px;
+}
+
+.panpipeData p:hover
+{
+	color: white;
+	background-color: green;
+	border-radius: 10px;
+}
+
+.harpData p:hover, .fluteData p:hover, .tabnourineData p:hover
+{
+	color: white;
+	background-color: #00BBFF;
+	border-radius: 10px;
+}
+
+ .accodionData p:hover, .trioData p:hover, .banjoData p:hover
+ {
+ 	color: white;
+	background-color: brown;
+	border-radius: 10px;
+ }
+
+ #homeImage
+ {
+ 	width: 1200px;
+ 	height: 600px;
+ 	background-image: url("../images/cm.webp");
+/* 	opacity: 0.500;*/
+ }
+
+ #homeImage p
+ {
+ 	font-size: 20px;
+ }
+
+ .SVGSet
+ {
+ 	margin-top: 150px;
+ 	margin-left: 65px;
+ }
+
+ .title
+ {
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: center;
+ }
+
+ .title p
+ {
+ 	font-family: 'Satisfy', cursive;
+ 	font-size: 100px;
+ 	/*font-weight: bolder;*/
+ 	color: white;
+ 	position: relative;
+ 	top: 150px;
+ }
+
+ footer
+ {
+ 	height: 20px;
+ 	background-color: lightgrey;
+ 	margin-top: 25px;
+ }
